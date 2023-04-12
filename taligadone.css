@@ -1,0 +1,23 @@
+html{
+scroll-behavior: smooth;
+}
+
+body{
+
+    margin: 0 auto;
+    width: 700px;
+}
+ul li {
+    display: inline;
+    margin: 0 lem;
+}
+
+p {
+    width: 800px;
+    height: 30px;
+}
+
+ul {
+    text-align: center;
+    width: 635px;
+}
