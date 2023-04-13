@@ -1,0 +1,40 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+
+    margin: 0 auto;
+        width: 800px;
+            font-size: 19px;
+}
+ul li {
+    display: inline;
+         margin: 0.5em;
+            font-size: 25px;
+    
+}
+
+ul {
+    text-align: center;
+        width: 100%;
+            font-family: "ubuntu";
+}
+
+body h1 {
+    padding-left: 90px;
+        font-family: "ubuntu";
+}
+
+ol {
+    padding-left: 18px;
+        width: 100%;
+}
+
+h2 {
+    font-family: "ubuntu";
+}
+
+p {
+    font-family: "ubuntu";
+}
